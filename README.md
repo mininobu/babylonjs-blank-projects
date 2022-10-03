@@ -12,4 +12,4 @@ See README for each project.
 
 # License
 
-"Babylon.js Bkank Projects" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"Babylon.js Blank Projects" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
