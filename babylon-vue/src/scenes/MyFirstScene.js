@@ -13,7 +13,6 @@ const createScene = (canvas) => {
   const engine = new Engine(canvas);
   const scene = new Scene(engine);
 
-  //   const camera = new FreeCamera('camera1', new Vector3(0, 5, -10), scene);
   const camera = new ArcRotateCamera(
     'camera',
     -Math.PI / 2,
